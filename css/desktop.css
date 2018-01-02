@@ -96,7 +96,7 @@ body {
 }
 
 .hijriDate{
-    font-family: 'Amiri';
+   // font-family: 'Amiri';
 }
 
 .prayer-text {
@@ -169,7 +169,7 @@ body {
 
 .adhan .ar {
     font-size: 700%;
-    font-family: 'Amiri';
+   // font-family: 'Amiri';
 }
 
 .adhan .fr {
@@ -183,7 +183,7 @@ body {
 
 .douaa-between-adhan-iqama .ar {
     font-size: 700%;
-    font-family: 'Amiri';
+//    font-family: 'Amiri';
 }
 
 .douaa-between-adhan-iqama .fr {
@@ -197,7 +197,7 @@ body {
 
 .jumua-dhikr-reminder .ar {
     font-size: 650%;
-    font-family: 'Amiri';
+//    font-family: 'Amiri';
     line-height: 160%;
 }
 
